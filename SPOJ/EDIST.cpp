@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-int temp[30][30];
+int temp[3000][3000];
 
 int min_funct(int ele1,int ele2, int ele3){
 	if (ele1 < ele2){
