@@ -1,5 +1,5 @@
 """
-Program to check if a graph is bipartite or not.
+Program to check if a connected graph is bipartite or not.
 Input:
 	V - # of vertices
 	E - # of edges
