@@ -1,0 +1,1 @@
+print "no" if input()%6 in [2,4,5] else "yes"
